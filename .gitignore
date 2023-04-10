@@ -1,0 +1,24 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore the virtual environment
+venv/
+
+# Ignore the database file
+db.sqlite3
+
+# Ignore the media directory (where user-uploaded files are stored)
+
+
+# Ignore the staticfiles directory (where Django stores static files)
+staticfiles/
+
+# Ignore log files
+*.log
+
+# Ignore backup files created by text editors
+*~
+
+
+# Ignore the migrations directory
+police_app/migrations/
